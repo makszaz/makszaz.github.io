@@ -1,0 +1,14 @@
+  .barselona{
+      background-color: aquamarine;
+      text-align: center;
+      font-weight: bold;
+  }
+  div{
+    border: 1px solid black;
+  }
+  .wrapper {
+      text-align: center;
+      display: grid;
+      grid-template-columns: 50% 50%;
+      font-weight: 600
+  }
